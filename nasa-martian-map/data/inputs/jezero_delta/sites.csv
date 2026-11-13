@@ -1,0 +1,2 @@
+id,name,lat,lon,goal,description,mission,observed,source_url
+octavia_butler_landing,Octavia E. Butler Landing (Perseverance landing site),18.4447,77.4508,Start / landing site,Where NASA's Perseverance rover touched down on 18 Feb 2021 (NASA-published position).,Mars 2020 Perseverance,2021-02-18,https://science.nasa.gov/mission/mars-2020-perseverance/
