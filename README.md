@@ -1,21 +1,21 @@
 # Martian Map — NAKKHATRA-399
 
-### NASA Space Apps Challenge 2026
+NASA Space Apps Challenge 2026 <br>
 **Challenge:** Interplanetary Survival Guide: Martian Map
 
-<p align="center">
 
-## Live Project
 
-# [ Explore Martian Map](https://martianmap.hax.com.bd)
+<br>
 
-**Live Website:** https://martianmap.hax.com.bd
+## 🌎 Live Project and YouTube Video     
+
+**Live Website:** https://martianmap.hax.com.bd   <br>   **YouTube Link:** [YouTube](https://youtu.be/Qm0U0COv_S8)
 
 </p>
 
 An interactive Martian exploration and navigation platform designed to help future astronauts explore Mars, identify scientifically significant locations, understand terrain conditions, and plan safer surface exploration routes.
 
----
+
 
 ## About the Project
 
@@ -25,7 +25,7 @@ Our goal is to make Mars exploration more accessible through an interactive map 
 
 The platform focuses on helping users understand the Martian landscape and visualize potential exploration routes while considering terrain conditions and possible hazards.
 
-## 🧭 How to Use Martian Map
+## How to Use Martian Map
 
 Follow these steps to explore the platform:
 
@@ -40,7 +40,7 @@ Follow these steps to explore the platform:
 
 *Note: Available features and data depend on the currently integrated datasets.*
 
-## 🛰️ NASA Data & Resources
+## NASA Data & Resources
 
 The project uses real NASA imagery and planetary science resources to support Martian exploration.
 
@@ -65,7 +65,7 @@ Six minds. One mission. Earth to Cosmos.
 | **Jamiul Islam** | Data Analyst |
 | **Khadija Islam** | Researcher |
 
-## 🛠️ Built With
+##  Built With
 
 - TanStack Start
 - TypeScript
@@ -73,7 +73,7 @@ Six minds. One mission. Earth to Cosmos.
 - Tailwind CSS
 - NASA Open Data & Planetary Science Resources
 
-## 💻 Run Locally
+## Run Locally
 
 Want to run the project on your computer?
 
@@ -110,7 +110,7 @@ src/assets/
 
 NASA image sources and credits are documented on the application's Data Sources page (`/sources`).
 
-## 🌍 Our Mission
+## Our Mission
 
 We believe understanding Mars is an important step toward humanity's future in space exploration.
 
